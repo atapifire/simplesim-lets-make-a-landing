@@ -1,0 +1,1 @@
+// No JavaScript functionality needed for this example
